@@ -1,4 +1,5 @@
 [flake8]
+max-line-length = 100
 exclude = 
     migrations,
     __pycache__,
@@ -6,3 +7,4 @@ exclude =
     setting.py
 
 #this files we don't need flake8 to handle while lintting 
+
