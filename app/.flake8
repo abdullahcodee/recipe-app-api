@@ -1,0 +1,8 @@
+[flake8]
+exclude = 
+    migrations,
+    __pycache__,
+    manage.py,
+    setting.py
+
+#this files we don't need flake8 to handle while lintting 

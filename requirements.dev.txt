@@ -1,0 +1,2 @@
+flake8>=3.9.2,<3.10
+#that's not nessesary for demployment but we need it for development only 
